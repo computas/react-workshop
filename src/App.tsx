@@ -9,8 +9,7 @@ const App: React.FC = () => {
 
   return (
     <>
-      <h1 className="c-headline-1">Sommer '23</h1>
-      <h2 className="c-headline-2">React kurs</h2>
+      <h1 className="c-headline-1">React workshop</h1>
       {/* Plasser knappene i oppgave 1 her */}
     </>
   );
